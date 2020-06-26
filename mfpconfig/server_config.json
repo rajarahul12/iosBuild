@@ -1,0 +1,9 @@
+{
+    "mfp" : {
+        "name": "test",
+        "protocol": "http",
+        "host": "mf-bcwnpr-mfpappcenter.mf.svc.cluster.local",
+        "port": "9080",
+        "servercred": "admin:admin"
+    }
+}
